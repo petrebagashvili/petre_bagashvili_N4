@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: blue;
+    font-size: 25px;
+}
+.box1{
+    font-size: 25px;
+    color: aqua;
+    background-color: brown;
+
+}
+#main header{
+    font-size: 30px;
+    color: lightgreen;
+    background-color: black;
+}
+#unique{
+    color: rgb(146, 22, 223);
+}
+.box{
+    color: rgb(166, 201, 9);
+}
